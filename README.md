@@ -1,8 +1,3 @@
-
-Certainly! Below is a basic README template for your Hadoop Distributed File System (HDFS) project in Python. Please customize it according to your specific project details and requirements.
-
----
-
 # Hadoop Distributed File System (HDFS) in Python
 
 ## Overview
